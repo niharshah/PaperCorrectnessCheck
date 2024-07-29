@@ -1,4 +1,4 @@
-# PaperCorrectnessCheck
+# Detecting Deliberately Inserted Errors in Research Papers
 
 We developed three versions of a fictitious paper, each with a significant error intentionally embedded in one of the main claims. These errors were  crafted to be fully contained within the paper's main text, relate directly to a result touted as a key contribution, and  not be immediately obvious but require a detailed reading of the paper. The papers are available in the [folder Experimental_papers](https://github.com/niharshah/PaperCorrectnessCheck/tree/main/Experimental_papers). These papers, formatted according to style files of one popular conference, were then passed to LLMs for evaluation. The evaluation outcomes are detailed in [folder LLMevaluation](https://github.com/niharshah/PaperCorrectnessCheck/tree/main/LLMevaluation).
 
